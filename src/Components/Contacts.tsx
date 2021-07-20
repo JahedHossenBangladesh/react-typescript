@@ -27,7 +27,7 @@ export default function Contacts() {
   };
   return (
     <div>
-      <h1>Contact list</h1>
+      <h1>Contact lists</h1>
       <div>
         <input
           type="text"
